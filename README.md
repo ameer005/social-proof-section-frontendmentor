@@ -4,7 +4,7 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://ameer005.github.io/social-proof-section-frontendmentor/](https://ameer005.github.io/social-proof-section-frontendmentor/)
 
 ### Built with
 
